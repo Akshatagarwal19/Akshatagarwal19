@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/kishan_rajput23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Akshat94807765" height="30" width="40" /></a>
+<a href="https://twitter.com/Akshat94807765" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Akshat94807765" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Akshat Agarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/Akshat Agarwal" height="30" width="40" /></a>
 <a href="https://instagram.com/akshatagarwal0719" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akshatagarwal0719" height="30" width="40" /></a>
 </p>
