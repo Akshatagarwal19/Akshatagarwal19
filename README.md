@@ -1,36 +1,74 @@
 <h1 align="center">Hi 👋, I'm Akshat</h1>
-<h3 align="center">A tech enthusiast with passion to solve problems and to make things. Proven skills in programming, with work experience in various self developed projects and technical teams and I believe that I am a versatile learner and can get going with any sort of work.</h3>
+<h3 align="center">A tech enthusiast and a Full Stack Developer with a passion for solving problems and building impactful applications. Experienced in developing self-driven projects and contributing to technical teams. I thrive on learning and adapting to new challenges.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshatagarwal19&label=Profile%20views&color=0e75b6&style=flat" alt="Akshatagarwal19" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Akshatagarwal19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akshatagarwal19" alt="Akshatagarwal19" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Akshatagarwal19" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/Akshat94807765" target="blank"><img src="https://img.shields.io/twitter/follow/Akshat94807765?logo=twitter&style=for-the-badge" alt="kishan_rajput23" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/Akshat94807765" target="blank">
+    <img src="https://img.shields.io/twitter/follow/Akshat94807765?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **python and frontend web development.**
-
-- 👯 I’m looking to collaborate on **python language based projects.**
-
-- 💬 Ask me about **anything you want.**
-
-- 📫 How to reach me **akshatagarwal0719@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny😄**
-
+- 🌱 I’m currently working on an **Instagram clone using Next.js, MongoDB, and Tailwind CSS.**  
+- 👯 I’m looking to collaborate on **Full Stack Projects and MERN Stack Development.**  
+- 💬 Ask me about **JavaScript, React, Next.js, or any development-related queries.**  
+- 📫 How to reach me: **akshatagarwal0719@gmail.com**  
+- ⚡ Fun fact: **I find joy in debugging and cracking complex problems!** 😄  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://twitter.com/Akshat94807765" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Akshat94807765" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Akshat Agarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/Akshat Agarwal" height="30" width="40" /></a>
-<a href="https://instagram.com/akshatagarwal0719" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akshatagarwal0719" height="30" width="40" /></a>
+  <a href="https://twitter.com/Akshat94807765" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/Akshat.Agarwal" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/akshatagarwal0719" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.w3schools.com/js/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshatagarwal19&show_icons=true&locale=en&layout=compact" alt="Akshatagarwal19" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshatagarwal19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshatagarwal19&show_icons=true&locale=en" alt="Akshatagarwal19" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshatagarwal19&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatagarwal19&" alt="Akshatagarwal19" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshatagarwal19&" alt="GitHub Streak" />
+</p>
