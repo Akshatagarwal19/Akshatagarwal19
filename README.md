@@ -7,8 +7,8 @@
 ## 🚀 About Me
 - 💻 Full Stack Developer with strong focus on **backend development (Node.js, APIs, system design)**  
 - ⚙️ Experience building **end-to-end applications** using MERN stack  
-- 🧠 Currently learning **Microservices Architecture & Event-driven systems**  
-- ⚡ Interested in **scalable backend systems, Redis caching & performance optimization**  
+- 🧠 Currently working on a **real-time chat application (WebSockets)**  
+- ⚡ Interested in **scalable backend systems, caching & performance optimization**  
 - 🎯 Goal: Become a **production-ready backend engineer**
 
 ---
@@ -20,8 +20,8 @@
 - MongoDB  
 
 **Frontend**
-- React.js, Next.js ,Angular.Js 
-- HTML, CSS, SCSS, Tailwind  
+- React.js, Next.js  
+- HTML, CSS, Tailwind  
 
 **Other Tools**
 - Git, GitHub  
@@ -31,23 +31,30 @@
 
 ## 📌 Featured Projects
 
-### 🧠 E-learning Platform (Full Stack)
-- Built complete platform with **course management, quizzes & progress tracking**
-- Designed backend APIs & handled frontend integration  
+### 🧠 Learnwise – E-learning Platform (Full Stack)
+- Built a full-stack learning platform with **courses, quizzes & progress tracking**
+- Backend and frontend maintained in separate repositories  
+- Focused on API design, data handling & UI integration  
 - Tech: Node.js, Express, MongoDB, React  
 
----
-
-### ⚙️ Microservices Learning Project
-- Implemented **event-driven architecture concepts**
-- Focused on service communication & backend scalability  
-- Tech: Node.js  
+Backend ->   🔗 https://github.com/Akshatagarwal19/Learnvise
+Frontend ->  🔗 https://github.com/Akshatagarwal19/LearnViseUI
 
 ---
 
-### 📅 Scheduler App (React)
-- Developed UI-based scheduling system  
-- Focused on clean UI & state management  
+### 📊 AI Worker Productivity Dashboard
+- Developed a dashboard to track and visualize productivity metrics  
+- Focused on frontend visualization & backend data handling  
+- Tech: React, Node.js  
+
+🔗 https://github.com/Akshatagarwal19/ai-worker-productivity-dashboard
+
+---
+
+### 💬 Real-Time Chat Application *(In Progress)*
+- Building a chat system using **WebSockets / Socket.io**  
+- Focus on real-time communication & scalable backend design  
+- Tech: Node.js, Express, Socket.io  
 
 ---
 
@@ -56,9 +63,9 @@
 ---
 
 ## 🌱 Currently Working On
-- Learning **Microservices & system design concepts**  
+- Building a **real-time chat application (WebSockets)**  
 - Improving **DSA for coding interviews**  
-- Exploring **Redis & caching strategies**
+- Exploring **system design & backend scalability concepts**
 
 ---
 
