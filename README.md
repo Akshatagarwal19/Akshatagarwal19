@@ -51,6 +51,15 @@ Frontend ->  🔗 https://github.com/Akshatagarwal19/LearnViseUI
 
 ---
 
+### ⚙️ Task / Workflow Management System *(Renamed from assignment)*
+- Built a full-stack application focusing on **API design, CRUD operations & data handling**  
+- Demonstrates backend structuring and application flow  
+- Tech: Node.js, Express, MongoDB  
+
+🔗 https://github.com/Akshatagarwal19/services-platform-fullstack
+
+---
+
 ### 💬 Real-Time Chat Application *(In Progress)*
 - Building a chat system using **WebSockets / Socket.io**  
 - Focus on real-time communication & scalable backend design  
